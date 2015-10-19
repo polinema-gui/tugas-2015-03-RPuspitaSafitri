@@ -1,0 +1,25 @@
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\bin\Debug\Perulangan.exe
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\bin\Debug\Perulangan.pdb
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\bin\Debug\Perulangan.xml
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.Form1.resources
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.Resources.resources
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.vbproj.GenerateResource.Cache
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.exe
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.xml
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.pdb
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.Bintang.resources
+D:\KULIAH\Semester 3\Pemrogaman GUI\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.Matriks.resources
+D:\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.exe
+D:\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.xml
+D:\tugas-2015-03-IqbalSyauqi\Perulangan\obj\x86\Debug\Perulangan.pdb
+C:\Users\rima\Documents\Tugas Tingkat 2\Visual Studio (P.Dhian)\tugas-2015-03-IqbalSyaudi\Perulangan\obj\x86\Debug\Perulangan.exe
+C:\Users\rima\Documents\Tugas Tingkat 2\Visual Studio (P.Dhian)\tugas-2015-03-IqbalSyaudi\Perulangan\obj\x86\Debug\Perulangan.xml
+C:\Users\rima\Documents\Tugas Tingkat 2\Visual Studio (P.Dhian)\tugas-2015-03-IqbalSyaudi\Perulangan\obj\x86\Debug\Perulangan.pdb
+C:\Users\rima\Documents\Tugas Tingkat 2\Visual Studio (P.Dhian)\tugas-2015-03-IqbalSyaudi\Perulangan\obj\x86\Debug\Perulangan.Form1.resources
+C:\Users\rima\Documents\Tugas Tingkat 2\Visual Studio (P.Dhian)\tugas-2015-03-IqbalSyaudi\Perulangan\obj\x86\Debug\Perulangan.Bintang.resources
+C:\Users\rima\Documents\Tugas Tingkat 2\Visual Studio (P.Dhian)\tugas-2015-03-IqbalSyaudi\Perulangan\obj\x86\Debug\Perulangan.Matriks.resources
+C:\Users\rima\Documents\Tugas Tingkat 2\Visual Studio (P.Dhian)\tugas-2015-03-IqbalSyaudi\Perulangan\obj\x86\Debug\Perulangan.Resources.resources
+C:\Users\rima\Documents\Tugas Tingkat 2\Visual Studio (P.Dhian)\tugas-2015-03-IqbalSyaudi\Perulangan\obj\x86\Debug\Perulangan.vbproj.GenerateResource.Cache
+C:\Users\rima\Documents\Tugas Tingkat 2\Visual Studio (P.Dhian)\tugasMatriksBintang-2015-03-RimaPuspitaSafitri\Perulangan\obj\x86\Debug\Perulangan.exe
+C:\Users\rima\Documents\Tugas Tingkat 2\Visual Studio (P.Dhian)\tugasMatriksBintang-2015-03-RimaPuspitaSafitri\Perulangan\obj\x86\Debug\Perulangan.xml
+C:\Users\rima\Documents\Tugas Tingkat 2\Visual Studio (P.Dhian)\tugasMatriksBintang-2015-03-RimaPuspitaSafitri\Perulangan\obj\x86\Debug\Perulangan.pdb
