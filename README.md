@@ -1,4 +1,4 @@
-# Tugas Perulangan
+# Tugas Variabel, Tipe Data dan Percabangan
 
 ## WARNING-DISCLAIMER
 Mohon baca petunjuk pengerjaan dengan seksama
